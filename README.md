@@ -38,3 +38,8 @@ Meta
 - NSManagedObjectContext 
 
 
+Screenshots
+-----------
+
+(https://raw.githubusercontent.com/arunabhdas/fringe/master/screenshots/fringe_1.png)
+
