@@ -40,6 +40,6 @@ Meta
 
 Screenshots
 -----------
+![alt text](https://raw.githubusercontent.com/arunabhdas/fringe/master/screenshots/fringe_1.png "Screnshot 1")
 
-(https://raw.githubusercontent.com/arunabhdas/fringe/master/screenshots/fringe_1.png)
 
